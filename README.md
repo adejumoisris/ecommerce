@@ -60,5 +60,5 @@ Ensure you have the following software installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-java-servlet.git
-cd ecommerce-java-servlet
+https://github.com/adejumoisris/ecommerce.git
+
